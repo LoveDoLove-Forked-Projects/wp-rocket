@@ -1719,7 +1719,7 @@ msgstr ""
 
 #: inc/Engine/Admin/Settings/Page.php:949
 msgid "Enable for CSS background images"
-msgstr "Activar para imagens de fundo CSS"
+msgstr "Activar para imagens de fundo do CSS"
 
 #: inc/Engine/Admin/Settings/Page.php:964
 msgid "Enable for iframes and videos"
