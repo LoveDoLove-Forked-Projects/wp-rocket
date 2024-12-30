@@ -3439,7 +3439,7 @@ msgstr "Économisez $%1$s%2$s%3$s"
 #: inc/Engine/License/views/upgrade-item.php:35
 #: inc/Engine/License/views/upgrade-item.php:50
 msgid "Websites"
-msgstr "%s sites web"
+msgstr "Sites web"
 
 #. translators: %s = number of websites.
 #: inc/Engine/License/views/upgrade-item.php:58
