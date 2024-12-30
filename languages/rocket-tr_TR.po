@@ -8,9 +8,9 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: WP Rocket 3.17.3-alpha2\n"
+"Project-Id-Version: WP Rocket 3.17.4-alpha2\n"
 "Report-Msgid-Bugs-To: http://wp-rocket.me/\n"
-"POT-Creation-Date: 2024-11-19T12:59:39+00:00\n"
+"POT-Creation-Date: 2024-12-30T14:42:04+00:00\n"
 "PO-Revision-Date: 2019-08-26 15:14+0000\n"
 "Last-Translator: BouRock, 2024\n"
 "Language-Team: Turkish (Turkey) (https://app.transifex.com/wp-media/teams/18133/tr_TR/)\n"
@@ -790,6 +790,103 @@ msgstr "RocketCDN önbelleğini temizle"
 #: inc/common/admin-bar.php:249 views/settings/partials/documentation.php:14
 msgid "Documentation"
 msgstr "Belgeler"
+
+#: inc/Dependencies/WPMedia/PluginFamily/Model/PluginFamily.php:66
+msgid "Activated"
+msgstr "Etkinleştirildi"
+
+#: inc/Dependencies/WPMedia/PluginFamily/Model/PluginFamily.php:109
+msgid "Install"
+msgstr "Yükle"
+
+#: inc/Dependencies/WPMedia/PluginFamily/Model/PluginFamily.php:118
+msgid "Get it Now"
+msgstr "Şimdi Alın"
+
+#: inc/Dependencies/WPMedia/PluginFamily/Model/PluginFamily.php:127
+msgid "Activate"
+msgstr "Etkinleştir"
+
+#: inc/Dependencies/WPMedia/PluginFamily/Model/wp_media_plugins.php:8
+msgid "Optimize Performance"
+msgstr "Performansı İyileştir"
+
+#: inc/Dependencies/WPMedia/PluginFamily/Model/wp_media_plugins.php:15
+msgid "Speed Up Your Website, Instantly"
+msgstr "Web Sitenizi Anında Hızlandırın"
+
+#: inc/Dependencies/WPMedia/PluginFamily/Model/wp_media_plugins.php:16
+msgid ""
+"WP Rocket is the easiest way to make your WordPress website faster and boost"
+" your Google PageSpeed score. Get more traffic, better engagement, and "
+"higher conversions effortlessly."
+msgstr ""
+"WP Rocket, WordPress web sitenizi daha hızlı hale getirmenin ve Google "
+"PageSpeed ​​puanınızı artırmanın en kolay yoludur. Zahmetsizce daha fazla "
+"trafik, daha iyi etkileşim ve daha yüksek dönüşüm elde edin."
+
+#: inc/Dependencies/WPMedia/PluginFamily/Model/wp_media_plugins.php:24
+msgid "Speed Up Your Website With Lighter Images"
+msgstr "Daha Hafif Resimlerle Web Sitenizi Hızlandırın"
+
+#: inc/Dependencies/WPMedia/PluginFamily/Model/wp_media_plugins.php:25
+msgid ""
+"Imagify is the easiest WordPress image optimizer. It automatically "
+"compresses images, converts them to WebP and AVIF formats, and lets you "
+"resize and optimize with just one click!"
+msgstr ""
+"Imagify, en kolay WordPress resim iyileştiricisidir. Resimleri otomatik "
+"olarak sıkıştırır, WebP ve AVIF biçimlerine dönüştürür ve tek tıklamayla "
+"yeniden boyutlandırmanızı ve iyileştirmenizi sağlar!"
+
+#: inc/Dependencies/WPMedia/PluginFamily/Model/wp_media_plugins.php:31
+msgid "Boost Traffic"
+msgstr "Trafiği Artırın"
+
+#: inc/Dependencies/WPMedia/PluginFamily/Model/wp_media_plugins.php:38
+msgid "The Swiss Army Knife of SEO Tools"
+msgstr "SEO Araçlarının İsviçre Çakısı"
+
+#: inc/Dependencies/WPMedia/PluginFamily/Model/wp_media_plugins.php:39
+msgid ""
+"Rank Math SEO is the Best WordPress SEO plugin with the features of many SEO"
+" and AI SEO tools in a single package to help multiply your SEO traffic."
+msgstr ""
+"Rank Math SEO, SEO trafiğinizi artırmanıza yardımcı olacak birçok SEO ve AI "
+"SEO aracının özelliklerini tek bir pakette sunan En İyi WordPress SEO "
+"eklentisidir."
+
+#: inc/Dependencies/WPMedia/PluginFamily/Model/wp_media_plugins.php:45
+msgid "Protect & Secure"
+msgstr "Koruyun ve Güvenceye Alın"
+
+#: inc/Dependencies/WPMedia/PluginFamily/Model/wp_media_plugins.php:52
+msgid "The Easiest Way to Protect Your Website"
+msgstr "Web Sitenizi Korumanın En Kolay Yolu"
+
+#: inc/Dependencies/WPMedia/PluginFamily/Model/wp_media_plugins.php:53
+msgid ""
+"BackWPup is the most comprehensive and user-friendly backup & restore plugin"
+" for WordPress. Easily schedule automatic backups, securely store and "
+"restore with just a few clicks!"
+msgstr ""
+"BackWPup, WordPress için en kapsamlı ve kullanıcı dostu yedekleme ve geri "
+"yükleme eklentisidir. Otomatik yedeklemeleri kolayca zamanlayın, sadece "
+"birkaç tıklamayla güvenli bir şekilde saklayın ve geri yükleyin!"
+
+#: inc/Dependencies/WPMedia/PluginFamily/Model/wp_media_plugins.php:61
+msgid "GDPR/CCPA Cookie Consent Banner"
+msgstr "GDPR/CCPA Tanımlama Bilgisi Onay Afişi"
+
+#: inc/Dependencies/WPMedia/PluginFamily/Model/wp_media_plugins.php:62
+msgid ""
+"One of the easiest, most comprehensive, and popular cookie consent plugins "
+"available. Google Gold Certified Partner to quickly comply with data privacy"
+" laws from around the world."
+msgstr ""
+"Mevcut en kolay, en kapsamlı ve yaygın tanımlama bilgisi onay "
+"eklentilerinden biri. Dünyanın her yerindeki veri gizliliği yasalarına hızla"
+" uyum sağlamak için Google Gold Sertifikalı İş Ortağı."
 
 #: inc/deprecated/3.2.php:52 views/settings/page-sections/imagify.php:107
 msgid "Activate Imagify"
@@ -2804,18 +2901,6 @@ msgid ""
 msgstr ""
 "RocketCDN, WP Rocket’in İçerik Dağıtım Ağı ile web sitenizi hızlandırın!"
 
-#: inc/Engine/Common/JobManager/APIHandler/AbstractSafeAPIClient.php:68
-msgid "Too many requests."
-msgstr "Çok fazla istek."
-
-#: inc/Engine/Common/JobManager/APIHandler/AbstractSafeAPIClient.php:85
-msgid "Not valid response."
-msgstr "Geçerli yanıt değil."
-
-#: inc/Engine/Common/JobManager/APIHandler/AbstractSafeAPIClient.php:151
-msgid "Not valid request type."
-msgstr "Geçerli istek türü değil."
-
 #: inc/Engine/Common/JobManager/Cron/Subscriber.php:185
 msgid "WP Rocket process pending jobs"
 msgstr "WP Rocket işlemi bekleyen işler"
@@ -3187,25 +3272,18 @@ msgstr ""
 "fazla bilgi%2$s."
 
 #. translators: %1$s = promotion name, %2$s = <br>, %3$s = <strong>, %4$s =
-#. promotion discount percentage, %5$s = </strong>.
-#: inc/Engine/License/Upgrade.php:247
+#. promotion discount percentage, %5$s = </strong>, %6$s = Growth or Multi.
+#: inc/Engine/License/Upgrade.php:249
 msgid ""
 "Take advantage of %1$s to speed up more websites:%2$s get a %3$s%4$s off%5$s"
-" for %3$supgrading your license to Plus or Infinite!%5$s"
-msgid_plural ""
-"Take advantage of %1$s to speed up more websites:%2$s get a %3$s%4$s off%5$s"
-" for %3$supgrading your license to Infinite!%5$s"
-msgstr[0] ""
+" for %3$supgrading your license to %6$s!%5$s"
+msgstr ""
 "Daha fazla web sitesini hızlandırmak için %1$s avantajından yararlanın:%2$s "
-"%3$slisansınızı Infinite’e veya Plus’a yükseltmek%5$s için %3$s%4$s "
-"indirim%5$s alın!"
-msgstr[1] ""
-"Daha fazla web sitesini hızlandırmak için %1$s avantajından yararlanın:%2$s "
-"%3$slisansınızı Infinite’e yükseltmek%5$s için %3$s%4$s indirim%5$s alın!"
+"%3$slisansınızı %6$s’ye yükseltmek%5$s için %3$s%4$s indirim%5$s alın!"
 
-#: inc/Engine/License/Upgrade.php:378 inc/Engine/License/Upgrade.php:401
-msgid "Unlimited"
-msgstr "Sınırsız"
+#: inc/Engine/License/Upgrade.php:258
+msgid "or"
+msgstr "veya"
 
 #. translators: %s = promotion discount percentage.
 #: inc/Engine/License/views/promo-banner.php:18
@@ -3316,12 +3394,33 @@ msgstr ""
 "%1$sWP Rocket lisansınızın süresi dolmak üzere%2$s: yakında ürün "
 "güncellemelerine ve desteğine erişiminizi kaybedeceksiniz."
 
-#: inc/Engine/License/views/upgrade-popin.php:14
+#. translators: %1$s = span opening tag, %2$s = price, %3$s = span closing
+#. tag.
+#: inc/Engine/License/views/upgrade-item.php:17
+msgid "Save $%1$s%2$s%3$s"
+msgstr "$%1$s%2$s%3$s tasarruf edin"
+
+#: inc/Engine/License/views/upgrade-item.php:35
+#: inc/Engine/License/views/upgrade-item.php:50
+msgid "Websites"
+msgstr "Web siteleri"
+
+#. translators: %s = number of websites.
+#: inc/Engine/License/views/upgrade-item.php:58
+msgid "%s websites"
+msgstr "%s web sitesi"
+
+#. translators: %s = license name.
+#: inc/Engine/License/views/upgrade-item.php:66
+msgid "Upgrade to %s"
+msgstr "%s olarak yükselt"
+
+#: inc/Engine/License/views/upgrade-popin.php:15
 msgid "Speed Up More Websites"
 msgstr "Daha Fazla Web Sitesini Hızlandırın"
 
 #. translators: %1$s = opening strong tag, %2$s = closing strong tag.
-#: inc/Engine/License/views/upgrade-popin.php:21
+#: inc/Engine/License/views/upgrade-popin.php:22
 msgid ""
 "You can use WP Rocket on more websites by upgrading your license. To "
 "upgrade, simply pay the %1$sprice difference%2$s between your current and "
@@ -3332,27 +3431,12 @@ msgstr ""
 "arasındaki %1$sfiyat farkını%2$s, aşağıda gösterildiği gibi ödeyin."
 
 #. translators: %1$s = opening strong tag, %2$s = closing strong tag.
-#: inc/Engine/License/views/upgrade-popin.php:27
+#: inc/Engine/License/views/upgrade-popin.php:28
 msgid ""
 "%1$sN.B.%2$s: Upgrading your license does not change your expiration date"
 msgstr ""
 "%1$sLütfen Dikkat%2$s: Lisansınızı yükseltmek, geçerlilik sonu tarihinizi "
 "değiştirmez"
-
-#. translators: %s = price.
-#: inc/Engine/License/views/upgrade-popin.php:37
-msgid "Save $%s"
-msgstr "$%s dolar tasarruf edin"
-
-#. translators: %s = number of websites.
-#: inc/Engine/License/views/upgrade-popin.php:50
-msgid "%s websites"
-msgstr "%s web sitesi"
-
-#. translators: %s = license name.
-#: inc/Engine/License/views/upgrade-popin.php:56
-msgid "Upgrade to %s"
-msgstr "%s olarak yükselt"
 
 #: inc/Engine/License/views/upgrade-section.php:11
 msgid ""
