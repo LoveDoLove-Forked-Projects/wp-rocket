@@ -706,7 +706,7 @@ msgstr "모든 언어"
 
 #: inc/common/admin-bar.php:178
 msgid "Clear this post"
-msgstr "이 글을 삭제하세요"
+msgstr "이 글을 지우기"
 
 #: inc/common/admin-bar.php:192
 msgid "Purge this URL"
