@@ -2694,7 +2694,7 @@ msgstr "이 작업을 수행하면 중요한 이미지와 느리게 렌더링된
 #. translators: %1$s = plugin name.
 #: inc/Engine/Common/PerformanceHints/Admin/Controller.php:136
 msgid "%1$s: Critical images and Lazy Render data was cleared!"
-msgstr "%1$s: 중요한 이미지와 Lazy Render 데이터가 지워졌습니다!"
+msgstr "%1$s: 중요한 이미지와 지연 도구 데이터가 지워졌습니다!"
 
 #: inc/Engine/Common/PerformanceHints/AJAX/AJAXControllerTrait.php:19
 msgid "Script error"
