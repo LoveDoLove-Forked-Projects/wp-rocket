@@ -2751,7 +2751,7 @@ msgstr "위 옵션에서 CSS 비동기 로드 활성화"
 #. translators: %1$s = type of content, %2$s = error message.
 #: inc/Engine/CriticalPath/APIClient.php:64
 msgid "Critical CSS for %1$s not generated. Error: %2$s"
-msgstr "%1$s에 대한 중요 CSS가 생성되지 않음. 오류: %2$s"
+msgstr "%1$s에 대한 중요 CSS가 생성되지 않았습니다. 오류: %2$s"
 
 #. translators: %s = item URL.
 #: inc/Engine/CriticalPath/APIClient.php:172
