@@ -3924,7 +3924,7 @@ msgstr "글꼴 성능을 개선하고 여러 글꼴 요청을 결합하여 HTTP 
 #: views/settings/enable-google-fonts.php:29
 msgid ""
 "Google Fonts Optimization is now enabled for your site. %1$sMore info%2$s"
-msgstr "이제 귀하의 사이트에서 Google Fonts Optimization이 활성화되었습니다. %1$s상세 정보%2$s"
+msgstr "이제 귀하의 사이트에서 Google Fonts 최적화가 활성화되었습니다. %1$s상세 정보%2$s"
 
 #: views/settings/enable-google-fonts.php:38
 msgid "Optimize Google Fonts"
