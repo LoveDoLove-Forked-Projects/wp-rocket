@@ -4198,7 +4198,7 @@ msgstr "WP Rocket이 귀하의 라이선스를 자동으로 검증하지 못했�
 #. translators: %1$s = tutorial URL, %2$s = support URL.
 #: views/settings/page-sections/license.php:29
 msgid "Follow this %1$s, or contact %2$s to get the engine started."
-msgstr "%1$s을 따르거나 %2$s에 연락하여 엔진을 시동하세요."
+msgstr "%1$s을 따르거나 %2$s에 연락하여 시작하세요."
 
 #. translators: %1$s = <a href=", %2$s =  tutorial href,  %3$s =  "
 #. target="_blank">,  %4$s =  </a>.
