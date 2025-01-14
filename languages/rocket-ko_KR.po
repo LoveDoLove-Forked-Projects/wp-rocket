@@ -1490,7 +1490,7 @@ msgstr "JavaScript 결합 활성화"
 msgid ""
 "Specify patterns of inline JavaScript to be excluded from concatenation (one"
 " per line). %1$sMore info%2$s"
-msgstr "연결에서 제외할 인라인 JavaScript 패턴을 지정하세요(한 줄에 하나씩). %%1$s상세 정보%2$s"
+msgstr "연결에서 제외할 인라인 JavaScript 패턴을 지정하세요(한 줄에 하나씩). %1$s상세 정보%2$s"
 
 #: inc/Engine/Admin/Settings/Page.php:716
 msgid ""
