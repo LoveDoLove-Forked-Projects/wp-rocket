@@ -1368,8 +1368,8 @@ msgid ""
 "one method can be selected. Remove Unused CSS is recommended for optimal "
 "performance."
 msgstr ""
-"CSS 전달 최적화는 웹사이트에서 렌더링 차단 CSS를 제거합니다. 한 가지 방법만 선택할 수 있습니다. 최적의 성능을 위해 사용되지 "
-"않는 CSS 제거가 권장됩니다."
+"CSS 전달 최적화는 웹사이트에서 렌더링 차단 CSS를 제거합니다. 한 가지 방법만 선택할 수 있습니다. 최적의 성능을 위해 미사용 "
+"CSS 제거가 권장됩니다."
 
 #. translators: %1$s = opening <a> tag, %2$s = closing </a> tag.
 #: inc/Engine/Admin/Settings/Page.php:581
