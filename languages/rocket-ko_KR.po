@@ -3741,9 +3741,8 @@ msgid ""
 "for Autoptimize. If you want to use WP Rocket's Remove Unused CSS feature, "
 "disable the  RapidLoad Power-Up for Autoptimize plugin."
 msgstr ""
-"자동화된 사용하지 않는 CSS 제거는 현재 Autoptimize용 RapidLoad Power-Up에서 활성화되어 있습니다. WP "
-"Rocket의 사용하지 않는 CSS 제거 기능을 사용하려면 RapidLoad Power-Up for Autoptimize 플러그인을 "
-"비활성화하세요."
+"자동화된 미사용 CSS 제거는 현재 Autoptimize용 RapidLoad Power-Up에서 활성화되어 있습니다. WP Rocket의"
+" 사용하지 않는 CSS 제거 기능을 사용하려면 RapidLoad Power-Up for Autoptimize 플러그인을 비활성화하세요."
 
 #. translators: %1$s = plugin name.
 #: inc/ThirdParty/Plugins/Optimization/WPMeteor.php:42
