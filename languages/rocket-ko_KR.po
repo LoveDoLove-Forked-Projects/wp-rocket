@@ -1092,7 +1092,7 @@ msgstr "CNAME 추가"
 
 #: inc/deprecated/deprecated.php:1706
 msgid "Watch the video"
-msgstr "비디오를 보세요"
+msgstr "동영상 보기"
 
 #: inc/deprecated/deprecated.php:1771
 msgid "Basic"
