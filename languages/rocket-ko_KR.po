@@ -2869,11 +2869,11 @@ msgstr "중요 CSS 파일이 존재하지 않습니다"
 
 #: inc/Engine/CriticalPath/DataManager.php:120
 msgid "Critical CSS file for mobile cannot be deleted"
-msgstr "모바일용 중요 CSS 파일을 삭제할 수 없습니다."
+msgstr "모바일용 중요 CSS 파일을 삭제할 수 없음"
 
 #: inc/Engine/CriticalPath/DataManager.php:122
 msgid "Critical CSS file cannot be deleted"
-msgstr "중요 CSS 파일을 삭제할 수 없습니다."
+msgstr "중요 CSS 파일을 삭제할 수 없음"
 
 #. translators: %1$s = item URL or item type.
 #: inc/Engine/CriticalPath/ProcessorService.php:164
