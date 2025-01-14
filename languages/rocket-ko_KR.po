@@ -2645,7 +2645,7 @@ msgstr "RocketCDN은 로컬 도메인과 스테이징 사이트에서는 사용�
 
 #: inc/Engine/CDN/RocketCDN/views/dashboard-status.php:33
 msgid "Get RocketCDN"
-msgstr "RocketCDN 받기"
+msgstr "RocketCDN 얻기"
 
 #: inc/Engine/CDN/RocketCDN/views/promote-notice.php:11
 msgid "New!"
