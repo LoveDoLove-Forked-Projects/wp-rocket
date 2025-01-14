@@ -3912,7 +3912,7 @@ msgstr "목록 업데이트"
 
 #: views/settings/enable-google-fonts.php:13
 msgid "Enable Google Font Optimization"
-msgstr "Google 글꼴 최적화 활성화"
+msgstr "Google Fonts 최적화 활성화"
 
 #: views/settings/enable-google-fonts.php:14
 msgid ""
