@@ -1245,7 +1245,7 @@ msgstr "라이선스 확인"
 #: inc/Engine/Admin/Settings/Page.php:278
 #: inc/Engine/Admin/Settings/Page.php:279 inc/functions/admin.php:559
 msgid "Unavailable"
-msgstr "없는"
+msgstr "사용 불가능"
 
 #: inc/Engine/Admin/Settings/Page.php:385
 msgid "API key"
