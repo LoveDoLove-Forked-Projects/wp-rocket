@@ -1389,8 +1389,8 @@ msgid ""
 "Removes unused CSS per page and helps to reduce page size and HTTP requests."
 " Recommended for best performance. Test thoroughly! %1$sMore info%2$s"
 msgstr ""
-"페이지당 사용되지 않는 CSS를 제거하고 페이지 크기와 HTTP 요청을 줄이는 데 도움이 됩니다. 최상의 성능을 위해 권장됩니다. 철저히"
-" 테스트하세요! %1$s상세 정보%2$s"
+"페이지당 미사용 CSS를 제거하고 페이지 크기와 HTTP 요청을 줄이는 데 도움이 됩니다. 최상의 성능을 위해 권장됩니다. 철저히 "
+"테스트하세요! %1$s상세 정보%2$s"
 
 #: inc/Engine/Admin/Settings/Page.php:606
 #: inc/Engine/Admin/Settings/Page.php:690
@@ -1407,7 +1407,7 @@ msgstr ""
 
 #: inc/Engine/Admin/Settings/Page.php:608
 msgid "Activate Remove Unused CSS"
-msgstr "사용하지 않는 CSS 제거 활성화"
+msgstr "미사용 CSS 제거 활성화"
 
 #: inc/Engine/Admin/Settings/Page.php:614
 msgid "CSS safelist"
