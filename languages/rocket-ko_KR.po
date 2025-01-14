@@ -3068,7 +3068,7 @@ msgstr ""
 #: inc/Engine/License/views/renewal-expired-banner.php:29
 #: inc/Engine/License/views/renewal-soon-banner.php:33
 msgid "Renew now"
-msgstr "지금 갱신하세요"
+msgstr "지금 갱신"
 
 #: inc/Engine/License/views/renewal-expired-banner-ocd.php:13
 msgid "You will soon lose access to some features."
