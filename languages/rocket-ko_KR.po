@@ -2850,7 +2850,7 @@ msgstr "기존 옵션 유지"
 msgid ""
 "Critical CSS for %1$s on mobile not generated. Error: The destination folder"
 " could not be created."
-msgstr "모바일에서 %1$s에 대한 중요 CSS가 생성되지 않음. 오류: 대상 폴더를 만들 수 없습니다."
+msgstr "모바일에서 %1$s에 대한 중요 CSS가 생성되지 않았습니다. 오류: 대상 폴더를 만들 수 없습니다."
 
 #. translators: %s = item URL.
 #: inc/Engine/CriticalPath/DataManager.php:71
