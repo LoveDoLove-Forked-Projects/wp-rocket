@@ -855,7 +855,7 @@ msgid ""
 "href=\"%s\">contact support</a>."
 msgstr ""
 "예상치 못한 오류가 발생했습니다. WP-Rocket.me 또는 이 서버의 구성에 문제가 있을 수 있습니다. 문제가 계속되면 <a "
-"href=\"%s\">지원에 문의하세요</a> ."
+"href=\"%s\">지원을 요청하세요</a> ."
 
 #: inc/deprecated/3.4.php:18
 msgid "Choose a domain from the list"
