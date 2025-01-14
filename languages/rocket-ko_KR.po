@@ -396,7 +396,7 @@ msgstr "제외된 JavaScript 파일 지연"
 
 #: inc/admin/options.php:107 inc/Engine/Admin/Settings/Page.php:1243
 msgid "Never Cache URL(s)"
-msgstr "다음 URL을 절대 캐시에 포함하지 않음"
+msgstr "절대 캐시에 포함하지 않을 URL"
 
 #: inc/admin/options.php:108 inc/Engine/Admin/Settings/Page.php:1257
 msgid "Never Cache User Agent(s)"
