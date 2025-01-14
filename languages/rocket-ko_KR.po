@@ -1006,7 +1006,7 @@ msgstr "URL 추가"
 #: inc/deprecated/deprecated.php:1245
 #: inc/Engine/Admin/Settings/Settings.php:453
 msgid "Settings saved."
-msgstr "설정이 저장되었습니다."
+msgstr "설정이 저장됨."
 
 #: inc/deprecated/deprecated.php:1277 views/settings/fields/import-form.php:22
 msgid ""
