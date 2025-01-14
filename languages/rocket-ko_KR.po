@@ -354,7 +354,7 @@ msgstr "설정 가져오기에 실패함: 업로드된 파일이 없습니다."
 
 #: inc/admin/admin.php:416
 msgid "Settings import failed: incorrect filename."
-msgstr "설정 가져오기에 실패함: 파일 이름이 잘못되었습니다."
+msgstr "설정 가져오기에 실패함: 잘못된 파일 이름."
 
 #: inc/admin/admin.php:427
 msgid "Settings import failed: incorrect filetype."
