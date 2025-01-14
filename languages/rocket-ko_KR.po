@@ -408,7 +408,7 @@ msgstr "항상 제거할 URL"
 
 #: inc/admin/options.php:110 inc/Engine/Admin/Settings/Page.php:1544
 msgid "Exclude files from CDN"
-msgstr "CDN에서 파일 제외"
+msgstr "CDN에서 제외할 파일"
 
 #. translators: 1 and 2 can be anything.
 #: inc/admin/options.php:131
