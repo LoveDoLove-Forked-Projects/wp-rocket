@@ -418,7 +418,7 @@ msgstr "%1$s: <em>%2$s</em>"
 #: inc/admin/options.php:141
 msgid "The following pattern is invalid and has been removed:"
 msgid_plural "The following patterns are invalid and have been removed:"
-msgstr[0] "다음 패턴은 잘못되었으므로 제거되었습니다."
+msgstr[0] "다음 패턴은 잘못되었으므로 제거되었습니다:"
 
 #: inc/admin/options.php:157
 msgid "More info"
