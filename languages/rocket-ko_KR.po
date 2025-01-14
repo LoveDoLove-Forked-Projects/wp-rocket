@@ -2888,7 +2888,7 @@ msgstr "%s에 대한 중요 CSS가 진행 중입니다."
 #. translators: %1$s = Item URL or item type.
 #: inc/Engine/CriticalPath/ProcessorService.php:239
 msgid "Mobile Critical CSS for %s generated."
-msgstr "%s에 대한 모바일 중요 CSS가 생성됨."
+msgstr "%s에 대한 모바일 중요 CSS가 생성되었습니다."
 
 #. translators: %1$s = Item URL or item type.
 #: inc/Engine/CriticalPath/ProcessorService.php:250
