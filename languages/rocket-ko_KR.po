@@ -3928,7 +3928,7 @@ msgstr "이제 귀하의 사이트에서 Google Fonts Optimization이 활성화�
 
 #: views/settings/enable-google-fonts.php:38
 msgid "Optimize Google Fonts"
-msgstr "Google 글꼴 최적화"
+msgstr "Google Fonts 최적화"
 
 #: views/settings/fields/cache-lifespan.php:26
 msgid "Clear cache after"
