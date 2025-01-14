@@ -3041,7 +3041,7 @@ msgstr "초"
 #: inc/Engine/License/views/promo-banner.php:36
 #: inc/Engine/License/views/upgrade-section.php:11
 msgid "Upgrade now"
-msgstr "지금 업그레이드하기"
+msgstr "지금 업그레이드"
 
 #: inc/Engine/License/views/renewal-expired-banner-ocd-disabled.php:13
 msgid "The Optimize CSS Delivery feature is disabled."
