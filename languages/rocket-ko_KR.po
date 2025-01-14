@@ -2777,7 +2777,7 @@ msgstr "모바일에서 %1$s에 대한 중요 CSS가 생성되지 않음."
 #: inc/Engine/CriticalPath/APIClient.php:189
 #: inc/Engine/CriticalPath/ProcessorService.php:171
 msgid "Critical CSS for %1$s not generated."
-msgstr "%1$s에 대한 중요 CSS가 생성되지 않음."
+msgstr "%1$s에 대한 중요 CSS가 생성되지 않았습니다."
 
 #. translators: %s = URL.
 #: inc/Engine/CriticalPath/APIClient.php:197
