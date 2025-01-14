@@ -3051,7 +3051,7 @@ msgstr "CSS 전송 최적화 기능이 비활성화되었습니다."
 msgid ""
 "You can no longer use the Remove Unused CSS or Load CSS asynchronously "
 "options."
-msgstr "사용하지 않는 CSS 제거 또는 CSS 비동기 로드 옵션을 사용할 수 없습니다."
+msgstr "미사용 CSS 제거 또는 CSS 비동기 로드 옵션을 사용할 수 없습니다."
 
 #. translators: %1$s = <strong>, %2$s = </strong>.
 #: inc/Engine/License/views/renewal-expired-banner-ocd-disabled.php:22
