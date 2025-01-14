@@ -3732,7 +3732,7 @@ msgid ""
 "Remove Unused CSS is currently activated in Perfmatters. If you want to use "
 "WP Rocket's Remove Unused CSS feature, disable this option in Perfmatters."
 msgstr ""
-"사용하지 않는 CSS는 제거는 현재 Perfmatters에서 활성화되어 있습니다. WP Rocket의 사용하지 않는 CSS 제거 기능을 "
+"미사용 CSS는 제거는 현재 Perfmatters에서 활성화되어 있습니다. WP Rocket의 사용하지 않는 CSS 제거 기능을 "
 "사용하려면 Perfmatters에서 이 옵션을 비활성화하세요."
 
 #: inc/ThirdParty/Plugins/Optimization/RapidLoad.php:39
