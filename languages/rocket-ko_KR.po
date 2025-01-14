@@ -203,7 +203,7 @@ msgstr "Cloudflare 브라우저 캐시가 %s(으)로 설정되었음"
 #. translators: %1$s = strong opening tag, %2$s = strong closing tag.
 #: inc/Addon/Cloudflare/Subscriber.php:507
 msgid "%1$sWP Rocket:%2$s Optimal settings activated for Cloudflare:"
-msgstr "%1$sWP Rocket:%2$s Cloudflare에 대한 최적 설정이 활성화되었습니다."
+msgstr "%1$sWP Rocket:%2$s Cloudflare에 대한 최적 설정이 활성화됨:"
 
 #. translators: %1$s = strong opening tag, %2$s = strong closing tag.
 #: inc/Addon/Cloudflare/Subscriber.php:516
