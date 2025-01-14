@@ -3573,8 +3573,8 @@ msgid ""
 "%1$s: Cloudflare's HTTP/2 Server Push is incompatible with the features of "
 "Remove Unused CSS and Combine CSS files. We strongly recommend disabling it."
 msgstr ""
-"%1$s: Cloudflare의 HTTP/2 Server Push는 사용하지 않는 CSS 제거 및 CSS 파일 결합 기능과 호환되지 "
-"않습니다. 비활성화할 것을 강력히 권장합니다."
+"%1$s: Cloudflare의 HTTP/2 Server Push는 미사용 CSS 제거 및 CSS 파일 결합 기능과 호환되지 않습니다. "
+"비활성화할 것을 강력히 권장합니다."
 
 #: inc/ThirdParty/Plugins/CDN/Cloudflare.php:170
 msgid ""
