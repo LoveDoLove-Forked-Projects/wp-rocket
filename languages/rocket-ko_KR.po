@@ -370,7 +370,7 @@ msgstr "설정 가져오기에 실패했습니다: 예상치 못한 파일 콘�
 
 #: inc/admin/admin.php:498
 msgid "Settings imported and saved."
-msgstr "설정을 가져오고 저장했습니다."
+msgstr "설정을 가져오고 저장함."
 
 #: inc/admin/options.php:102 inc/Engine/Admin/Settings/Page.php:549
 msgid "Excluded CSS Files"
