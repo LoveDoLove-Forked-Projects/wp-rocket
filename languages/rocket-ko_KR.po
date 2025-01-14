@@ -3882,7 +3882,7 @@ msgstr "취소"
 
 #: views/deactivation-intent/form.php:88
 msgid "Confirm"
-msgstr "확인하다"
+msgstr "확인"
 
 #. translators: %1$s = <strong>, %2$s = plugin version, %3$s = </strong>, %4$s
 #. = <a>, %5$s = </a>, %6$s = <a>.
