@@ -2746,7 +2746,7 @@ msgstr "WP Rocket 설정에서 CSS 비동기 로드 활성화"
 
 #: inc/Engine/CriticalPath/Admin/Post.php:224
 msgid "Enable Load CSS asynchronously in the options above"
-msgstr "위 옵션에서 CSS 비동기 로드를 활성화하세요."
+msgstr "위 옵션에서 CSS 비동기 로드 활성화"
 
 #. translators: %1$s = type of content, %2$s = error message.
 #: inc/Engine/CriticalPath/APIClient.php:64
