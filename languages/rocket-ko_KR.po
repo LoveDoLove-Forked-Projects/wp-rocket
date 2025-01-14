@@ -916,7 +916,7 @@ msgstr[0] ""
 
 #: inc/deprecated/3.5.php:867 inc/Engine/HealthCheck/HealthCheck.php:80
 msgid "Please contact your host to check if CRON is working."
-msgstr "CRON이 작동하는지 확인하려면 호스트에 문의하세요."
+msgstr "CRON이 작동하는지 확인하려면 호스트에 문의해주세요."
 
 #: inc/deprecated/3.10.php:163
 msgid "OPcache purge failed."
