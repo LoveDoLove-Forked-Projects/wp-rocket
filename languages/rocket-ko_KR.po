@@ -3007,7 +3007,7 @@ msgid ""
 "Take advantage of %1$s to speed up more websites:%2$s get a %3$s%4$s off%5$s"
 " for %3$supgrading your license to %6$s!%5$s"
 msgstr ""
-"%1$s을(를) 활용하여 더 많은 웹사이트 속도를 높이세요:%2$s 라이선스를 %6$s(으)로 업그레이드하면서 %3$s%4$s "
+"%1$s을(를) 활용하여 더 많은 웹사이트의 속도를 높이세요:%2$s 라이선스를%3$s %6$s(으)로 업그레이드하면서 %3$s%4$s "
 "할인%5$s을 받으세요!%5$s"
 
 #: inc/Engine/License/Upgrade.php:258
