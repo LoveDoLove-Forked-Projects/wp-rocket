@@ -546,7 +546,7 @@ msgid ""
 "addresses (except for license validation), IP addresses, or third-party API "
 "keys."
 msgstr ""
-"아래는 WP Rocket이 허가를 받으면 수집하는 모든 데이터의 상세 내용 화면입니다. WP Rocket은 도메인 이름이나 이메일 "
+"아래는 WP Rocket이 허용 시 수집하는 모든 데이터의 상세 내용 화면입니다. WP Rocket은 도메인 이름이나 이메일 "
 "주소(라이선스 검증 제외), IP 주소 또는 타사 API 키를 전송하지 않습니다."
 
 #. translators: button text for data collection opt-in
