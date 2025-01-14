@@ -920,11 +920,11 @@ msgstr "CRON이 작동하는지 확인하려면 호스트에 문의하세요."
 
 #: inc/deprecated/3.10.php:163
 msgid "OPcache purge failed."
-msgstr "OPcache 제거에 실패했습니다."
+msgstr "OPcache 제거에 실패함."
 
 #: inc/deprecated/3.10.php:168
 msgid "OPcache successfully purged"
-msgstr "OPcache가 성공적으로 제거되었습니다."
+msgstr "OPcache가 성공적으로 제거됨"
 
 #: inc/deprecated/3.11.php:81
 msgid "Yoast SEO XML sitemap"
