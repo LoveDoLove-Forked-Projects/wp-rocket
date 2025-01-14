@@ -1052,7 +1052,7 @@ msgstr "성능 팁:"
 #: inc/deprecated/deprecated.php:1476
 msgctxt "screen-reader-text"
 msgid "Third-party feature detected:"
-msgstr "타사 기능이 감지되었습니다:"
+msgstr "타사 기능이 감지됨:"
 
 #: inc/deprecated/deprecated.php:1488 inc/deprecated/deprecated.php:1672
 msgctxt "screen-reader-text"
