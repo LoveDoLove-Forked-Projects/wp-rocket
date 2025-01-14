@@ -3756,7 +3756,7 @@ msgstr ""
 
 #: inc/ThirdParty/Plugins/Smush.php:108 inc/ThirdParty/Plugins/Smush.php:126
 msgid "Smush"
-msgstr "스머쉬"
+msgstr "Smush"
 
 #: inc/ThirdParty/Themes/Avada.php:107
 msgid "Avada"
