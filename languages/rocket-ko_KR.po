@@ -2784,7 +2784,7 @@ msgstr "%1$s에 대한 중요 CSS가 생성되지 않음."
 msgid ""
 "Critical CSS for %1$s on mobile not generated. Error: The API returned an "
 "invalid response code."
-msgstr "모바일에서 %1$s에 대한 중요 CSS가 생성되지 않았습니다. 오류: API가 잘못된 응답 코드를 반환했습니다."
+msgstr "모바일에서 %1$s에 대한 중요 CSS가 생성되지 않음. 오류: API가 잘못된 응답 코드를 반환했습니다."
 
 #. translators: %s = URL.
 #: inc/Engine/CriticalPath/APIClient.php:199
