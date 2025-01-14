@@ -346,7 +346,7 @@ msgstr "이 캐시 지우기"
 
 #: inc/admin/admin.php:408
 msgid "Settings import failed: you do not have the permissions to do this."
-msgstr "설정 가져오기에 실패했습니다. 이 작업을 수행할 권한이 없습니다."
+msgstr "설정 가져오기에 실패함: 이 작업을 수행할 권한이 없습니다."
 
 #: inc/admin/admin.php:412
 msgid "Settings import failed: no file uploaded."
