@@ -2770,7 +2770,7 @@ msgstr "%1$s에 대한 중요 CSS가 생성되지 않음. 오류: API가 빈 응
 #. translators: %s = item URL.
 #: inc/Engine/CriticalPath/APIClient.php:187
 msgid "Critical CSS for %1$s on mobile not generated."
-msgstr "모바일에서 %1$s에 대한 중요 CSS가 생성되지 않음."
+msgstr "모바일에서 %1$s에 대한 중요 CSS가 생성되지 않았습니다."
 
 #. translators: %s = item URL.
 #. translators: %1$s = item URL or item type.
