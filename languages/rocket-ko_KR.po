@@ -959,7 +959,7 @@ msgstr "SEOPress XML 사이트맵"
 
 #: inc/deprecated/3.12.php:251
 msgid "The SEO Framework XML sitemap"
-msgstr "SEO 프레임워크 XML 사이트맵"
+msgstr "SEO Framework XML 사이트맵"
 
 #: inc/deprecated/3.12.php:332
 msgid "Jetpack XML Sitemaps"
