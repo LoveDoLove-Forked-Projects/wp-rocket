@@ -1896,7 +1896,7 @@ msgstr "%1$s쿼리 문자열 캐시%2$s를 사용하면 특정 GET 매개변수�
 #: inc/Engine/Admin/Settings/Page.php:1283
 msgid ""
 "Specify time after which the global cache is cleared<br>(0 = unlimited )"
-msgstr "전역 캐시가 지워지는 시간을 지정하세요 (0 = 무제한)"
+msgstr "전역 캐시가 지워지는 시간을 지정하세요<br>(0 = 무제한)"
 
 #. translators: %1$s = opening <a> tag, %2$s = closing </a> tag.
 #: inc/Engine/Admin/Settings/Page.php:1285
