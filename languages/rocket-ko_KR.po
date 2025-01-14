@@ -3086,8 +3086,8 @@ msgid ""
 " to address the PageSpeed Insights recommendations and improve your website "
 "performance."
 msgstr ""
-"사용하지 않는 CSS 제거 및 CSS 비동기 로드 기능은 PageSpeed Insights 권장 사항을 충족하고 웹사이트 성능을 개선하는"
-" 데 유용한 옵션입니다."
+"미사용 CSS 제거 및 CSS 비동기 로드 기능은 PageSpeed Insights 권장 사항을 충족하고 웹사이트 성능을 개선하는 데 "
+"유용한 옵션입니다."
 
 #. translators: %1$s = <strong>, %2$s = </strong>, %3$s = date.
 #: inc/Engine/License/views/renewal-expired-banner-ocd.php:31
