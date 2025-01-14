@@ -3847,7 +3847,7 @@ msgstr "WP Rocket 문제를 해결하기 위해 안전 모드를 사용하시겠
 #. translators: %1$s = opening strong tag, %2$s = closing strong tag.
 #: views/deactivation-intent/form.php:55
 msgid "Yes, apply \"%1$sSafe Mode%2$s\""
-msgstr "예, \"%1$s안전 모드%2$s\"를 적용합니다."
+msgstr "예, \"%1$s안전 모드%2$s\"를 적용하세요."
 
 #. translators: %1$s = opening strong tag, %2$s = closing strong tag.
 #: views/deactivation-intent/form.php:68
