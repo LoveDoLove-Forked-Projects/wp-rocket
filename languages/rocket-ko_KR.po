@@ -210,7 +210,7 @@ msgstr "%1$sWP Rocket:%2$s Cloudflare에 대한 최적 설정이 활성화됨:"
 msgid ""
 "%1$sWP Rocket:%2$s Optimal settings deactivated for Cloudflare, reverted to "
 "previous settings:"
-msgstr "%1$sWP Rocket:%2$s Cloudflare에 대한 최적 설정이 비활성화되어 이전 설정으로 되돌려졌습니다."
+msgstr "%1$sWP Rocket:%2$s Cloudflare에 대한 최적 설정이 비활성화되어 이전 설정으로 되돌려짐:"
 
 #: inc/Addon/Cloudflare/Subscriber.php:632 inc/admin/options.php:165
 #: inc/classes/subscriber/Tools/class-detect-missing-tags-subscriber.php:148
