@@ -605,7 +605,7 @@ msgstr "사전 로드 중지"
 
 #: inc/admin/ui/notices.php:691
 msgid "Turn on Remove Unused CSS"
-msgstr "사용하지 않는 CSS 제거 켜기"
+msgstr "미사용 CSS 제거 켜기"
 
 #: inc/admin/ui/notices.php:697
 msgid "Enable “Separate Cache Files for Mobile Devices” now"
