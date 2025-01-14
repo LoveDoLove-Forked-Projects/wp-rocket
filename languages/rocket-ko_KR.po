@@ -3290,8 +3290,8 @@ msgid ""
 "%1$s: Please wait %2$s seconds. The Remove Unused CSS service is processing "
 "your pages, the plugin is optimizing LCP and the images above the fold."
 msgstr ""
-"%1$s: %2$s초 동안 기다려 주세요. 사용하지 않는 CSS 제거 서비스가 페이지를 처리하고 있으며, 플러그인이 LCP와 폴드 위의 "
-"이미지를 최적화하고 있습니다."
+"%1$s: %2$s초 동안 기다려 주세요. 미사용 CSS 제거 서비스가 페이지를 처리하고 있으며, 플러그인이 LCP와 폴드 위의 이미지를"
+" 최적화하고 있습니다."
 
 #. translators: %1$s = plugin name, %2$s = number of URLs, %3$s = number of
 #. seconds.
