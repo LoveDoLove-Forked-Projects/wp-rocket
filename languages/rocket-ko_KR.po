@@ -1928,7 +1928,8 @@ msgid ""
 "The domain part of the URL will be stripped automatically.<br>Use (.*) "
 "wildcards to address multiple URLs under a given path."
 msgstr ""
-"URL의 도메인 부분은 자동으로 제거됩니다. 주어진 경로 아래에 있는 여러 URL을 주소로 지정하려면 (.*) 와일드카드를 사용하세요."
+"URL의 도메인 부분은 자동으로 제거됩니다.<br>주어진 경로 아래에 있는 여러 URL을 주소로 지정하려면 (.*) 와일드카드를 "
+"사용하세요."
 
 #: inc/Engine/Admin/Settings/Page.php:1307
 msgid ""
