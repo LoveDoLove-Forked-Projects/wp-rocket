@@ -663,7 +663,7 @@ msgstr "업그레이드할 수 없는 경우 아래 버튼을 사용하여 이�
 #: inc/classes/class-wp-rocket-requirements-check.php:161
 #: inc/deprecated/deprecated.php:1947
 msgid "Re-install version %s"
-msgstr "버전 %s 다시 설치"
+msgstr "버전 %s 재설치"
 
 #. translators: %s is the plugin name.
 #: inc/classes/class-wp-rocket-requirements-check.php:203
