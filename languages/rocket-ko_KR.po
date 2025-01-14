@@ -3301,7 +3301,7 @@ msgid ""
 "\t\t\t WP Rocket will continue to generate Used CSS for up to %2$s URLs per %3$s second(s)."
 msgstr ""
 "%1$s: LCP 요소가 최적화되었고, 폴드 위의 이미지는 지연 로드에서 제외되었습니다. 홈페이지의 사용된 CSS가 처리되었습니다.\n"
-"WP Rocket은 %3$s초당 최대 %2$s개의 URL에 대한 사용된 CSS를 계속 생성합니다."
+"\t\t\tWP Rocket은 %3$s초당 최대 %2$s개의 URL에 대한 사용된 CSS를 계속 생성합니다."
 
 #. translators: %1$s = opening link tag, %2$s = closing link tag.
 #: inc/Engine/Saas/Admin/Notices.php:157
