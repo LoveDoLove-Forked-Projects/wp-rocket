@@ -4344,7 +4344,7 @@ msgstr "문제 해결"
 
 #: views/settings/page-sections/tutorials.php:33
 msgid "Troubleshooting Display Issues with File Optimization"
-msgstr "파일 최적화를 통한 디스플레이 문제 해결"
+msgstr "파일 최적화를 통한 표시 문제 해결"
 
 #: views/settings/page-sections/tutorials.php:34
 msgid "How to Find the Right JavaScript to Exclude"
