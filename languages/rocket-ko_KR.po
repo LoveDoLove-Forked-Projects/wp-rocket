@@ -1218,7 +1218,7 @@ msgstr "데이터베이스 최적화 프로세스가 완료되었습니다. 아�
 #. translators: %1$d = number of items optimized, %2$s = type of optimization
 #: inc/Engine/Admin/Database/Subscriber.php:235
 msgid "%1$d %2$s optimized."
-msgstr "%1$d %2$s이 최적화되었습니다."
+msgstr "%1$d개의 %2$s이(가) 최적화되었습니다."
 
 #. translators: %1$s = <strong>, %2$s = </strong>, %3$s = <a>, %4$s = </a>.
 #: inc/Engine/Admin/DomainChange/Subscriber.php:143
