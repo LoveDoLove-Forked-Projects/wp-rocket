@@ -3932,7 +3932,7 @@ msgstr "Google 글꼴 최적화"
 
 #: views/settings/fields/cache-lifespan.php:26
 msgid "Clear cache after"
-msgstr "캐시를 지운 후"
+msgstr "다음 이후 캐시 지우기"
 
 #: views/settings/fields/categorized_multiselect.php:54
 msgid "3rd parties"
