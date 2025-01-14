@@ -899,7 +899,7 @@ msgstr "<strong>WP Rocket:</strong> %s"
 
 #: inc/deprecated/3.5.php:592
 msgid "<strong>WP Rocket:</strong> Cloudflare cache successfully purged."
-msgstr "<strong>WP Rocket:</strong> Cloudflare 캐시가 성공적으로 제거되었습니다."
+msgstr "<strong>WP Rocket:</strong> Cloudflare 캐시가 성공적으로 제거됨."
 
 #: inc/deprecated/3.5.php:858 inc/Engine/HealthCheck/HealthCheck.php:73
 msgid ""
