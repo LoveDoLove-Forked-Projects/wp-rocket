@@ -1442,7 +1442,7 @@ msgstr "중요 경로 CSS를 생성하고 CSS를 비동기적으로 로드합니
 
 #: inc/Engine/Admin/Settings/Page.php:641
 msgid "Fallback critical CSS"
-msgstr "폴백 중요 CSS"
+msgstr "중요 CSS 폴백"
 
 #. translators: %1$s = opening <a> tag, %2$s = closing </a> tag.
 #: inc/Engine/Admin/Settings/Page.php:643
