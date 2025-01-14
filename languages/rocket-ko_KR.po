@@ -2865,7 +2865,7 @@ msgstr "모바일용 중요 CSS 파일이 존재하지 않습니다."
 
 #: inc/Engine/CriticalPath/DataManager.php:108
 msgid "Critical CSS file does not exist"
-msgstr "중요 CSS 파일이 존재하지 않습니다"
+msgstr "중요 CSS 파일이 존재하지 않음"
 
 #: inc/Engine/CriticalPath/DataManager.php:120
 msgid "Critical CSS file for mobile cannot be deleted"
