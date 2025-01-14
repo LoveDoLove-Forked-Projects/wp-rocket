@@ -2711,7 +2711,7 @@ msgstr "유효한 마감 시간을 결정할 수 없습니다: %s."
 
 #: inc/Engine/Common/Queue/RUCSSQueueRunner.php:269
 msgid "Every minute"
-msgstr "매 분마다"
+msgstr "1분마다"
 
 #: inc/Engine/CriticalPath/Admin/Admin.php:261
 msgid "Regenerate Critical Path CSS"
