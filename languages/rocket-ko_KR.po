@@ -2878,7 +2878,7 @@ msgstr "중요 CSS 파일을 삭제할 수 없음"
 #. translators: %1$s = item URL or item type.
 #: inc/Engine/CriticalPath/ProcessorService.php:164
 msgid "Mobile Critical CSS for %1$s not generated."
-msgstr "%1$s에 대한 모바일 중요 CSS가 생성되지 않았습니다."
+msgstr "%1$s에 대한 모바일 중요 CSS가 생성되지 않음."
 
 #. translators: %1$s = Item URL or item type.
 #: inc/Engine/CriticalPath/ProcessorService.php:205
