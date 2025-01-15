@@ -2489,7 +2489,7 @@ msgstr "WP_CACHE가 false로 설정되었습니다"
 
 #: inc/Engine/CDN/RocketCDN/AdminPageSubscriber.php:96
 msgid "Next Billing Date"
-msgstr "다음 청구 날짜"
+msgstr "다음 청구일"
 
 #: inc/Engine/CDN/RocketCDN/AdminPageSubscriber.php:103
 msgid "No Subscription"
