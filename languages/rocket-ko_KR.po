@@ -4258,7 +4258,7 @@ msgstr "설정 내보내기"
 
 #: views/settings/page-sections/tools.php:38
 msgid "Download a backup file of your settings"
-msgstr "설정의 백업 파일을 다운로드하세요"
+msgstr "설정의 백업 파일 다운로드"
 
 #: views/settings/page-sections/tools.php:46
 msgid "Download settings"
