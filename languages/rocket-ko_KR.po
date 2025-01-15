@@ -2604,7 +2604,7 @@ msgstr "간편한 구성: %1$s최상의 CDN 설정%2$s이 자동으로 적용됨
 msgid ""
 "WP Rocket integration: the CDN option is %1$sautomatically configured%2$s in"
 " our plugin"
-msgstr "WP Rocket 통합: CDN 옵션은 플러그인에서 %1$s자동으로 구성%2$s됩니다."
+msgstr "WP Rocket 통합: CDN 옵션은 플러그인에서 %1$s자동으로 구성%2$s됨"
 
 #: inc/Engine/CDN/RocketCDN/views/cta-big.php:60
 msgid "Learn more about RocketCDN"
