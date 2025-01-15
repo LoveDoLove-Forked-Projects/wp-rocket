@@ -3992,7 +3992,7 @@ msgstr "자세히 알아보기"
 
 #: views/settings/fields/rocket-cdn.php:72
 msgid "Clear all RocketCDN cache files"
-msgstr "모든 RocketCDN 캐시 파일을 지웁니다."
+msgstr "모든 RocketCDN 캐시 파일 지우기"
 
 #: views/settings/mobile-cache.php:11
 msgid "Mobile Cache"
