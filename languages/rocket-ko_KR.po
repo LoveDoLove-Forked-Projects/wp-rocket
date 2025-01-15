@@ -3117,7 +3117,7 @@ msgstr "%1$sWP Rocket 라이선스가 곧 만료됩니다%2$s: 곧 제품 업데
 #. tag.
 #: inc/Engine/License/views/upgrade-item.php:17
 msgid "Save $%1$s%2$s%3$s"
-msgstr "$%1$s%2$s%3$s 절약하세요"
+msgstr "$%1$s%2$s%3$s 절약"
 
 #: inc/Engine/License/views/upgrade-item.php:35
 #: inc/Engine/License/views/upgrade-item.php:50
