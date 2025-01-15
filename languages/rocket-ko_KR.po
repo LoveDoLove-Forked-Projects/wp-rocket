@@ -2608,7 +2608,7 @@ msgstr "WP Rocket 통합: CDN 옵션은 플러그인에서 %1$s자동으로 구�
 
 #: inc/Engine/CDN/RocketCDN/views/cta-big.php:60
 msgid "Learn more about RocketCDN"
-msgstr "RocketCDN에 대해 자세히 알아보세요"
+msgstr "RocketCDN에 대해 자세히 알아보기"
 
 #. translators: %1$s = discounted price, %2$s = regular price.
 #: inc/Engine/CDN/RocketCDN/views/cta-big.php:67
