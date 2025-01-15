@@ -3857,7 +3857,7 @@ msgstr "WP Rocket 설정 내보내기 %1$s(현재 설정이 삭제되므로 권�
 
 #: views/deactivation-intent/form.php:76
 msgid "No, deactivate and snooze this message for"
-msgstr "아니요, 이 메시지를 비활성화하고 일시 중지합니다."
+msgstr "아니요, 다음 기간 동안 이 메시지를 비활성화하고 일시 중지하기:"
 
 #: views/deactivation-intent/form.php:78
 msgid "1 day"
