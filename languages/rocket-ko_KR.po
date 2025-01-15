@@ -3442,7 +3442,7 @@ msgstr "라이선스 검증에 실패했습니다. 플러그인의 무효화된 
 #. Translators: %1$s = opening link tag, %2$s = closing link tag.
 #: inc/functions/options.php:507 inc/functions/options.php:549
 msgid "Login to your WP Rocket %1$saccount%2$s"
-msgstr "WP Rocket %1$s계정%2$s에 로그인하세요"
+msgstr "WP Rocket %1$s계정%2$s에 로그인"
 
 #. Translators: %1$s = opening link tag, %2$s = closing link tag.
 #: inc/functions/options.php:507 inc/functions/options.php:549
