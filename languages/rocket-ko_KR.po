@@ -2394,7 +2394,7 @@ msgctxt "Sucuri"
 msgid ""
 "Firewall API key (for plugin), must be in format {32 characters}/{32 "
 "characters}:"
-msgstr "방화벽 API 키(플러그인용)는 {32자}/{32자} 형식이어야 합니다."
+msgstr "방화벽 API 키(플러그인용)는 {32자}/{32자} 형식이어야 합니다:"
 
 #: inc/Engine/Admin/Settings/Page.php:2082
 msgctxt "Sucuri"
