@@ -4053,7 +4053,7 @@ msgstr "또한 귀하의 웹사이트에 즉각적인 이점을 제공하는 옵
 
 #: views/settings/page-sections/dashboard.php:46
 msgid "Continue to the options to further optimize your site!"
-msgstr "사이트를 더욱 최적화할 수 있는 옵션을 계속 사용해 보세요!"
+msgstr "사이트를 더욱 최적화할 수 있는 옵션을 계속 설정해보세요!"
 
 #: views/settings/page-sections/dashboard.php:63
 msgid "My Account"
