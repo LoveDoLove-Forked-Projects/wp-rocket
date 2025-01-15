@@ -2597,7 +2597,7 @@ msgstr "%1$s무제한 대역폭%2$s을 갖춘 고성능 콘텐츠 전송 네트�
 #: inc/Engine/CDN/RocketCDN/views/cta-big.php:50
 msgid ""
 "Easy configuration: the %1$sbest CDN settings%2$s are automatically applied"
-msgstr "간편한 구성: %1$s최상의 CDN 설정%2$s이 자동으로 적용됩니다."
+msgstr "간편한 구성: %1$s최상의 CDN 설정%2$s이 자동으로 적용됨"
 
 #. translators: %1$s = opening strong tag, %2$s = closing strong tag.
 #: inc/Engine/CDN/RocketCDN/views/cta-big.php:56
