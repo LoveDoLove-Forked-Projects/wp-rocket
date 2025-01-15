@@ -2467,7 +2467,7 @@ msgstr "WP_CACHE 값"
 
 #: inc/Engine/Cache/WPCache.php:355
 msgid "Cache"
-msgstr "은닉처"
+msgstr "캐시시"
 
 #: inc/Engine/Cache/WPCache.php:359
 msgid ""
