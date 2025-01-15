@@ -4065,7 +4065,7 @@ msgstr "정보 새로고침"
 
 #: views/settings/page-sections/dashboard.php:87
 msgid "with"
-msgstr "~와 함께"
+msgstr "~와(과) 함께"
 
 #: views/settings/page-sections/dashboard.php:101
 msgid "Expiration Date"
