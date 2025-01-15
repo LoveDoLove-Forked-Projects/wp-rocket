@@ -2437,7 +2437,7 @@ msgstr "이미지 최적화"
 
 #: inc/Engine/Admin/Settings/Subscriber.php:215
 msgid "Compress your images"
-msgstr "귀하의 이미지를 압축하세요"
+msgstr "이미지 압축하기"
 
 #: inc/Engine/Admin/Settings/Subscriber.php:232
 #: views/settings/page-sections/tutorials.php:48
