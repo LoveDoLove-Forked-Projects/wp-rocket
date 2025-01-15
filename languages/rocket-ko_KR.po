@@ -2120,7 +2120,7 @@ msgstr "CDN CNAME(들)"
 #: inc/Engine/Admin/Settings/Page.php:1605
 #: inc/Engine/CDN/RocketCDN/AdminPageSubscriber.php:163
 msgid "Specify the CNAME(s) below"
-msgstr "아래의 CNAME을 지정하세요"
+msgstr "아래에 CNAME 지정"
 
 #: inc/Engine/Admin/Settings/Page.php:1612
 msgid ""
