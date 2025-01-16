@@ -878,8 +878,7 @@ msgstr ""
 msgid ""
 "Cloudflare email, API key and Zone ID are not set. Read the "
 "%1$sdocumentation%2$s for further guidance."
-msgstr ""
-"Cloudflare 이메일, API 키 및 Zone ID가 설정되지 않았습니다. 자세한 지침은 %1$s문서%2$s를 참조하세요."
+msgstr "Cloudflare 이메일, API 키 및 영역 ID가 설정되지 않았습니다. 자세한 지침은 %1$s문서%2$s를 참조하세요."
 
 #. translators: %1$s = opening link; %2$s = closing link
 #: inc/deprecated/3.5.php:206
