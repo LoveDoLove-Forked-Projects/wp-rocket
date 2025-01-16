@@ -565,7 +565,7 @@ msgstr "감사합니다!"
 
 #: inc/admin/ui/notices.php:567
 msgid "WP Rocket now collects these metrics from your website:"
-msgstr "WP Rocket은 이제 귀하의 웹사이트에서 다음과 같은 측정 항목을 수집합니다."
+msgstr "WP Rocket은 이제 귀하의 웹사이트에서 다음과 같은 측정 항목을 수집합니다:"
 
 #. translators: %s = plugin name.
 #: inc/admin/ui/notices.php:605
