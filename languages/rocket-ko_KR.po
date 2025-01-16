@@ -2969,8 +2969,7 @@ msgstr "지금 %1$s%3$s%2$s에서 라이선스를 1년 동안 갱신하세요."
 msgid ""
 "Renew your license for 1 year now and get %1$s%3$s OFF%2$s immediately: you "
 "will only pay %1$s%4$s%2$s!"
-msgstr ""
-"지금 1년 동안 라이선스를 갱신하고 즉시 %1$s%3$s 할인%2$s 받으세요: 지불해야 하는 비용은 %1$s%4$s%2$s뿐입니다!"
+msgstr "지금 1년 동안 라이선스를 갱신하고 즉시 %1$s%3$s 할인%2$s 받으세요: %1$s%4$s%2$s만 결제하시면 됩니다!"
 
 #. translators: %1$s = <strong>, %2$s = </strong>, %3$s = discount price.
 #: inc/Engine/License/Renewal.php:218
