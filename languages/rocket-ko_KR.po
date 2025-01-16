@@ -64,7 +64,7 @@ msgstr "귀하의 사이트는 %s에 호스팅되며, 호환성을 위해 Varnis
 
 #: inc/Addon/Cloudflare/API/Client.php:129
 msgid "Cloudflare did not provide any reply. Please try again later."
-msgstr "Cloudflare는 아무런 답변도 제공하지 않았습니다. 나중에 다시 시도하세요."
+msgstr "Cloudflare는 아무런 답변도 제공하지 않았습니다. 나중에 다시 시도해주세요."
 
 #: inc/Addon/Cloudflare/API/Client.php:135
 msgid "Cloudflare unexpected response"
