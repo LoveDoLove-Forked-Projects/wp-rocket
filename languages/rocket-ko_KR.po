@@ -2333,7 +2333,7 @@ msgstr "Cloudflare 설정"
 #: inc/Engine/Admin/Settings/Page.php:1978
 msgctxt "Cloudflare"
 msgid "Global API key:"
-msgstr "글로벌 API 키:"
+msgstr "Global API 키:"
 
 #: inc/Engine/Admin/Settings/Page.php:1979
 msgctxt "Cloudflare"
