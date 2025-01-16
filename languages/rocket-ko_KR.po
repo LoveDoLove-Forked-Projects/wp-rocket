@@ -2253,8 +2253,8 @@ msgid ""
 "as clearing the Cloudflare cache and enabling optimal settings with WP "
 "Rocket."
 msgstr ""
-"WP Rocket에서 Cloudflare 캐시를 지우고 최적의 설정을 활성화하는 등의 옵션을 사용하려면 계정 이메일, 글로벌 API 키,"
-" 도메인을 제공하세요."
+"WP Rocket에서 Cloudflare 캐시를 지우고 최적의 설정을 활성화하는 등의 옵션을 사용하려면 계정 이메일, Global API"
+" 키, 도메인을 제공하세요."
 
 #. translators: %1$s = opening span tag, %2$s = closing span tag.
 #: inc/Engine/Admin/Settings/Page.php:1779
