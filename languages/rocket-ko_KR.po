@@ -3787,7 +3787,7 @@ msgstr "사이트에서 모바일 전용 CPCSS를 활성화하려면 버튼을 �
 msgid ""
 "This is a one-time action and this button will be removed afterwards. "
 "%1$sMore info%2$s"
-msgstr "이 작업은 한 번만 수행되며 이 버튼은 그 후 제거됩니다. %1$s상세 정보%2$s"
+msgstr "이 작업은 한 번만 수행되며 이 버튼은 그 이후 제거됩니다. %1$s상세 정보%2$s"
 
 #. translators: %1$s = opening link tag, %2$s = closing link tag.
 #: views/cpcss/activate-cpcss-mobile.php:30
