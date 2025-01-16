@@ -975,7 +975,7 @@ msgstr "WP Rocket 옵션"
 
 #: inc/deprecated/3.15.php:57 views/metaboxes/post_edit_options.php:19
 msgid "Never cache this page"
-msgstr "캐시에서 제외할 페이지"
+msgstr "절대 캐시에 포함하지 않을 페이지"
 
 #: inc/deprecated/3.15.php:61 views/metaboxes/post_edit_options.php:23
 msgid "Activate these options on this post:"
