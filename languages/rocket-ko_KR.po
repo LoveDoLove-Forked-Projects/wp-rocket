@@ -652,7 +652,7 @@ msgstr ""
 msgid ""
 "WordPress %1$s. To use this WP Rocket version, please upgrade WordPress to "
 "version %1$s or higher."
-msgstr "워드프레스 %1$s. 이 WP Rocket 버전을 사용하려면 워드프레스를 %1$s 이상으로 업그레이드하세요."
+msgstr "워드프레스 %1$s. 이 WP Rocket 버전을 사용하려면 워드프레스를 %1$s 이상으로 업그레이드해주세요."
 
 #: inc/classes/class-wp-rocket-requirements-check.php:159
 msgid ""
