@@ -1402,7 +1402,7 @@ msgid ""
 "If you notice any errors on your website after having activated this "
 "setting, just deactivate it again, and your site will be back to normal."
 msgstr ""
-"이 설정을 활성화한 후에 귀하의 웹사이트에 오류가 발견되면, 이 설정을 다시 비활성화하시면 귀하의 사이트는 정상으로 돌아올 것입니다."
+"이 설정을 활성화한 이후에 귀하의 웹사이트에 오류가 발견되면, 이 설정을 다시 비활성화하시면 귀하의 사이트는 정상으로 돌아올 것입니다."
 
 #: inc/Engine/Admin/Settings/Page.php:608
 msgid "Activate Remove Unused CSS"
