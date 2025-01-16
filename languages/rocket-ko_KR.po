@@ -3532,7 +3532,7 @@ msgstr "이 라이선스 키를 인식할 수 없습니다."
 #. Translators: %1$s = opening link tag, %2$s = closing link tag.
 #: inc/functions/options.php:549
 msgid "If the issue persists, please %1$scontact support%2$s."
-msgstr "문제가 지속되면 %1$s지원팀에 문의%2$s하세요."
+msgstr "문제가 지속되면 %1$s지원팀에 문의%2$s해주세요."
 
 #. Translators: %s = error message returned.
 #: inc/functions/options.php:555
