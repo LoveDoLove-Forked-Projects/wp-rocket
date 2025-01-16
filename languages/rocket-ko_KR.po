@@ -3480,7 +3480,7 @@ msgstr "라이선스 검증에 실패했습니다. 이 사용자 계정은 차�
 #. Translators: %1$s = opening link tag, %2$s = closing link tag.
 #: inc/functions/options.php:523
 msgid "Please see %1$sthis guide%2$s for more info."
-msgstr "상세 정보는 %1$s이 가이드%2$s를 참조하세요."
+msgstr "상세 정보는 %1$s이 가이드%2$s를 참조해주세요."
 
 #. Translators: %1$s = opening em tag, %2$s = closing em tag, %3$s = opening
 #. link tag, %4$s closing link tag.
