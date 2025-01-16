@@ -3652,10 +3652,9 @@ msgid ""
 "not be applied to the file it creates. We suggest disabling %1$sJavaScript "
 "Aggregation%2$s to take full advantage of Delay JavaScript Execution."
 msgstr ""
-"%1$sWP Rocket: %2$sAutoptimize의 JavaScript Aggregation 기능이 활성화되어 있는 것을 "
-"감지했습니다. WP Rocket의 Delay JavaScript Execution은 생성한 파일에 적용되지 않습니다. Delay "
-"JavaScript Execution을 최대한 활용하려면 %1$sJavaScript Aggregation%2$s을 비활성화하는 것이 "
-"좋습니다."
+"%1$sWP Rocket: %2$sAutoptimize의 JavaScript 종합기능이 활성화되어 있는 것을 감지했습니다. WP "
+"Rocket의 JavaScript 실행 지연은 생성한 파일에 적용되지 않습니다. JavaScript 실행 지연을 최대한 활용하려면 "
+"%1$sJavaScript 종합%2$s을 비활성화하는 것이 좋습니다."
 
 #. Translators: %1$s is an opening <strong> tag; %2$s is a closing </strong>
 #. tag
