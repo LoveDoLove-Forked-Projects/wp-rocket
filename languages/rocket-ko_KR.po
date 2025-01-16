@@ -3415,7 +3415,7 @@ msgstr "제공된 라이선스 데이터가 유효하지 않습니다."
 #. Translators: %1$s = opening link tag, %2$s = closing link tag.
 #: inc/functions/options.php:432
 msgid "To resolve, please %1$scontact support%2$s."
-msgstr "해결하려면 %1$s지원팀에 문의하세요%2$s."
+msgstr "해결하려면 %1$s지원팀에 문의해주세요%2$s."
 
 #. Translators: %1$s = opening em tag, %2$s = closing em tag, %3$s = opening
 #. link tag, %4$s closing link tag.
