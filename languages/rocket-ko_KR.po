@@ -4164,7 +4164,7 @@ msgstr ""
 #. Translators: %1$s = <strong>, %2$s = </strong>.
 #: views/settings/page-sections/imagify.php:41
 msgid "%1$sCompress%2$s all your images in one click"
-msgstr "한 번의 클릭으로 모든 이미지를 %1$s압축%2$s"
+msgstr "한 번의 클릭으로 모든 이미지 %1$s압축%2$s"
 
 #. Translators: %1$s = <strong>, %2$s = </strong>.
 #: views/settings/page-sections/imagify.php:49
