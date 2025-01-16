@@ -4375,7 +4375,7 @@ msgstr "사이드바 표시"
 msgid ""
 "Below is a detailed view of all data WP Rocket will collect %1$sif granted "
 "permission.%2$s"
-msgstr "아래는 WP Rocket이 %1$s권한을 부여 받았을 경우%2$s 수집하는 모든 데이터의 상세 내용입니다."
+msgstr "아래는 WP Rocket이 %1$s권한을 부여 받았을 경우%2$s 수집하는 모든 데이터의 상세 화면입니다."
 
 #: views/settings/page.php:89
 msgid ""
