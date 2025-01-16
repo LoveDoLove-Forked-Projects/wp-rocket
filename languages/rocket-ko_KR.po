@@ -3621,7 +3621,7 @@ msgid ""
 "Cloudflare APO to serve the right version of the cache. %4$sMore info%5$s"
 msgstr ""
 "%1$sWP Rocket:%2$s \"모바일 기기용 별도 캐시 파일\"을 사용하고 있습니다. 올바른 버전의 캐시를 제공하려면 "
-"Cloudflare APO에서 \"기기 유형별 캐시\" %3$s설정%5$s을 활성화해야 합니다. %4$s자세한 정보%5$s"
+"Cloudflare APO에서 \"기기 유형별 캐시\" %3$s설정%5$s을 활성화해야 합니다. %4$s상세 정보%5$s"
 
 #. Translators: %1$s = strong opening tag, %2$s = strong closing tag.
 #: inc/ThirdParty/Plugins/CDN/Cloudflare.php:293
