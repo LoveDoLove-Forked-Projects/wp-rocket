@@ -1304,7 +1304,7 @@ msgstr ""
 msgid ""
 "Also, please check our %1$sdocumentation%2$s for a list of compatibility "
 "exclusions."
-msgstr "또한, 호환성 제외 항목 목록은 %1$s문서%2$s에서 확인하세요."
+msgstr "또한, 호환성 제외 항목 목록은 %1$s문서%2$s에서 확인해주세요."
 
 #: inc/Engine/Admin/Settings/Page.php:522
 msgid ""
