@@ -2904,7 +2904,7 @@ msgstr "중요 CSS 파일이 성공적으로 삭제되었습니다."
 #. translators: %1$s = Item URL or item type.
 #: inc/Engine/CriticalPath/ProcessorService.php:294
 msgid "Mobile Critical CSS for %1$s timeout. Please retry a little later."
-msgstr "%1$s에 대한 모바일 중요 CSS 시간 초과. 잠시 후에 다시 시도하세요."
+msgstr "%1$s에 대한 모바일 중요 CSS 시간 초과. 잠시 후에 다시 시도해주세요."
 
 #. translators: %1$s = Item URL or item type.
 #: inc/Engine/CriticalPath/ProcessorService.php:307
