@@ -2909,7 +2909,7 @@ msgstr "%1$s에 대한 모바일 중요 CSS 시간 초과. 잠시 후에 다시 
 #. translators: %1$s = Item URL or item type.
 #: inc/Engine/CriticalPath/ProcessorService.php:307
 msgid "Critical CSS for %1$s timeout. Please retry a little later."
-msgstr "%1$s에 대한 중요 CSS 시간 초과. 잠시 후에 다시 시도하세요."
+msgstr "%1$s에 대한 중요 CSS 시간 초과. 잠시 후에 다시 시도해주세요."
 
 #: inc/Engine/CriticalPath/RESTWP.php:141
 msgid "Mobile CPCSS generation not enabled."
