@@ -1919,7 +1919,7 @@ msgstr "일"
 #: inc/Engine/Admin/Settings/Page.php:1297
 msgid ""
 "Specify URLs of pages or posts that should never be cached (one per line)"
-msgstr "캐시에 포함되어서는 안될 페이지나 글의 URL을 지정하세요 (한 줄에 하나씩)"
+msgstr "절대 캐시에 포함하지 않을 페이지나 글의 URL을 지정하세요 (한 줄에 하나씩)"
 
 #: inc/Engine/Admin/Settings/Page.php:1298
 #: inc/Engine/Admin/Settings/Page.php:1326
