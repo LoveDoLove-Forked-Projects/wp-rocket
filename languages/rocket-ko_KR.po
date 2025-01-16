@@ -3337,7 +3337,7 @@ msgid ""
 "should be added to your allowlists:"
 msgstr ""
 "보안 플러그인이나 서버 방화벽이 WP Rocket이 SaaS 기능에 대한 액세스를 막는 것 같습니다. 문서 %1$s여기%2$s에 나열된 "
-"IP를 허용 목록에 추가해야 합니다."
+"IP를 허용 목록에 추가해야 합니다:"
 
 #: inc/Engine/Saas/Admin/Notices.php:286
 msgid "- In the security plugin, if you are using one"
