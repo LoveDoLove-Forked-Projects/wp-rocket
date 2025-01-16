@@ -3459,7 +3459,7 @@ msgstr "재설치"
 #: inc/functions/options.php:507
 msgid ""
 "If you do not have a WP Rocket account, please %1$spurchase a license%2$s."
-msgstr "WP Rocket 계정이 없으신 경우 %1$s라이선스를 구매해주세요%2$s."
+msgstr "WP Rocket 계정이 없으신 경우 %1$s라이선스를 구매%2$s해주세요."
 
 #. Translators: %1$s = opening link tag, %2$s = closing link tag.
 #: inc/functions/options.php:515
