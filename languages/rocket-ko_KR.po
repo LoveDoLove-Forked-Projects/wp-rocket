@@ -2521,7 +2521,7 @@ msgstr "RocketCDN API가 예기치 않은 오류 코드를 반환했기 때문�
 
 #: inc/Engine/CDN/RocketCDN/APIClient.php:140
 msgid "RocketCDN is not available at the moment. Please retry later."
-msgstr "RocketCDN은 현재 사용할 수 없습니다. 나중에 다시 시도하세요."
+msgstr "RocketCDN은 현재 사용할 수 없습니다. 나중에 다시 시도해주세요."
 
 #: inc/Engine/CDN/RocketCDN/APIClient.php:177
 msgid "RocketCDN cache purge failed: Missing identifier parameter."
