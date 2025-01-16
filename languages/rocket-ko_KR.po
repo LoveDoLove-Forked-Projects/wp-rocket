@@ -3470,7 +3470,7 @@ msgstr "라이선스 검증에 실패했습니다. 이 사용자 계정은 저�
 #. Translators: %1$s = opening link tag, %2$s = closing link tag.
 #: inc/functions/options.php:515
 msgid "To resolve, please contact support."
-msgstr "해결하려면 지원팀에 문의하세요."
+msgstr "해결하려면 지원팀에 문의해주세요."
 
 #. Translators: %1$s = opening link tag, %2$s = closing link tag.
 #: inc/functions/options.php:523
