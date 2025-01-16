@@ -617,7 +617,7 @@ msgstr "강제 비활성화"
 
 #: inc/admin/ui/notices.php:745
 msgid "The following code should have been written to this file:"
-msgstr "다음 코드는 이 파일에 작성되어야 합니다."
+msgstr "다음 코드는 이 파일에 작성되어야 합니다:"
 
 #. translators: %s = plugin name.
 #: inc/admin/ui/notices.php:776
