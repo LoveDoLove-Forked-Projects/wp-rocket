@@ -3686,7 +3686,7 @@ msgid ""
 msgid_plural ""
 "Please deactivate the following %s options which conflict with WP Rocket "
 "features:"
-msgstr[0] "WP Rocket 기능과 충돌하는 다음 %s 옵션을 비활성화하세요:"
+msgstr[0] "WP Rocket 기능과 충돌하는 다음 %s 옵션을 비활성화해주세요:"
 
 #. Translators: %1$s = Plugin name, %2$s = <em>, %3$s = </em>.
 #: inc/ThirdParty/Plugins/Optimization/Hummingbird.php:156
