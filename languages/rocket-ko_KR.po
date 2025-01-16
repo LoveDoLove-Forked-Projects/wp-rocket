@@ -1874,7 +1874,7 @@ msgid ""
 "%1$spreloading%2$s for the cache to be rebuilt automatically after lifespan "
 "expiration."
 msgstr ""
-"지정된 수명보다 오래된 캐시 파일은 삭제됩니다.<br>수명 만료 후 캐시가 자동으로 다시 작성되도록 하려면 %1$s사전 로드%2$s를 "
+"지정된 수명보다 오래된 캐시 파일은 삭제됩니다.<br>수명 만료 이후 캐시가 자동으로 다시 작성되도록 하려면 %1$s사전 로드%2$s를 "
 "활성화하세요."
 
 #: inc/Engine/Admin/Settings/Page.php:1251
