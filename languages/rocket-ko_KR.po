@@ -681,7 +681,7 @@ msgid ""
 "Failed to detect the following requirement in your theme: closing %1$s."
 msgid_plural ""
 "Failed to detect the following requirements in your theme: closing %1$s."
-msgstr[0] "테마에서 다음 요구 사항을 감지하지 못했습니다: %1$s 닫기."
+msgstr[0] "테마에서 다음 요구 사항을 감지하지 못했습니다: %1$s을(를) 닫습니다."
 
 #. translators: Documentation exists in EN, FR; use localized URL if
 #. applicable.
