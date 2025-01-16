@@ -3522,7 +3522,7 @@ msgstr "이 웹사이트는 허용되지 않습니다."
 #. Translators: %1$s = opening link tag, %2$s = closing link tag.
 #: inc/functions/options.php:547
 msgid "Please %1$scontact support%2$s."
-msgstr "%1$s지원팀에 문의%2$s해 주세요."
+msgstr "%1$s지원팀에 문의%2$s해주세요."
 
 #. Translators: %1$s = opening link tag, %2$s = closing link tag.
 #: inc/functions/options.php:549
