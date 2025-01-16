@@ -463,7 +463,7 @@ msgid ""
 "WP Rocket from working correctly. Please deactivate it if you have problems."
 msgstr ""
 "WP Rocket Footer JS는 공식 추가 기능이 아닙니다. WP Rocket의 일부 옵션이 제대로 작동하지 못하게 합니다. 문제가"
-" 있으면 비활성화해 주세요."
+" 있으면 비활성화해주세요."
 
 #. translators: %1$s = opening link tag, %2$s = closing link tag.
 #: inc/admin/ui/notices.php:229
