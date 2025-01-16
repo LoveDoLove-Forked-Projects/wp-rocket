@@ -2348,7 +2348,7 @@ msgstr "계정 이메일"
 #: inc/Engine/Admin/Settings/Page.php:2000
 msgctxt "Cloudflare"
 msgid "Zone ID"
-msgstr "존 ID"
+msgstr "영역 ID"
 
 #: inc/Engine/Admin/Settings/Page.php:2010
 msgid "Development mode"
