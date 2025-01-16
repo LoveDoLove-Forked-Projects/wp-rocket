@@ -472,8 +472,8 @@ msgid ""
 "Cache. Please set the Endurance Cache cache level to Off (Level 0) on the "
 "%1$sSettings > General%2$s page to prevent any issues."
 msgstr ""
-"현재 Endurance Cache가 활성화되어 있어 WP Rocket Cache와 충돌합니다. 문제가 발생하지 않도록 %1$s설정 > "
-"일반%2$s 페이지에서 Endurance Cache 캐시 레벨을 Off(레벨 0)로 설정하세요."
+"현재 Endurance Cache가 활성화되어 있어 WP Rocket 캐시와 충돌합니다. 문제가 발생하지 않도록 %1$s설정 > "
+"일반%2$s 페이지에서 Endurance Cache 캐시 레벨을 Off(레벨 0)로 설정해주세요."
 
 #. translators: %1$s WP Rocket plugin name; %2$s = opening link; %3$s =
 #. closing link
