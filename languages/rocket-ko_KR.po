@@ -110,7 +110,7 @@ msgstr ""
 
 #: inc/Addon/Cloudflare/API/Client.php:208 inc/deprecated/3.5.php:125
 msgid "Incorrect Cloudflare Zone ID."
-msgstr "잘못된 Cloudflare Zone ID입니다."
+msgstr "잘못된 Cloudflare 영역 ID입니다."
 
 #. translators: %1$s = opening link; %2$s = closing link
 #: inc/Addon/Cloudflare/Auth/APIKey.php:61
@@ -121,7 +121,7 @@ msgstr "Cloudflare 이메일 및/또는 API 키가 설정되지 않았습니다.
 
 #: inc/Addon/Cloudflare/Cloudflare.php:71 inc/deprecated/3.5.php:88
 msgid "Missing Cloudflare Zone ID."
-msgstr "Cloudflare Zone ID가 없습니다."
+msgstr "Cloudflare 영역 ID가 없습니다."
 
 #: inc/Addon/Cloudflare/Cloudflare.php:104 inc/deprecated/3.5.php:153
 msgid "It looks like your domain is not set up on Cloudflare."
