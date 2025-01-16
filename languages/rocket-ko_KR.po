@@ -3370,7 +3370,7 @@ msgstr "워드프레스 버전 숫자:"
 
 #: inc/functions/admin.php:388
 msgid "WordPress multisite:"
-msgstr "워드프레스 멀티사이트:"
+msgstr "워드프레스 다중 사이트:"
 
 #: inc/functions/admin.php:397
 msgid "Current theme:"
