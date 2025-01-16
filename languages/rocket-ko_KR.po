@@ -3567,7 +3567,7 @@ msgid ""
 "%1$sMyKinsta%2$s account to resolve this issue."
 msgstr ""
 "설치에 캐시 지우기를 관리하는 핵심 Kinsta 파일이 없는 듯하여 Kinsta 설치와 WP Rocket이 제대로 작동하지 않습니다. 이"
-" 문제를 해결하려면 %1$sMyKinsta%2$s 계정을 통해 Kinsta 지원팀에 문의하세요."
+" 문제를 해결하려면 %1$sMyKinsta%2$s 계정을 통해 Kinsta 지원팀에 문의해주세요."
 
 #. translators: %1$s = plugin name.
 #: inc/ThirdParty/Plugins/CDN/Cloudflare.php:127
