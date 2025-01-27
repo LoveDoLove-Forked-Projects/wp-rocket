@@ -189,10 +189,12 @@ class Processor {
 		$script_url = rocket_get_constant( 'WP_ROCKET_ASSETS_JS_URL' ) . 'wpr-beacon' . $min . '.js';
 
 		// Create the script tag.
-		$script_tag = "<script data-name=\"wpr-wpr-beacon\" src='{$script_url}' async></script>"; // phpcs:ignore WordPress.WP.EnqueuedResources.NonEnqueuedScript
+		$script_tag             = "<script data-name=\"wpr-wpr-beacon\" src='{$script_url}' async></script>"; // phpcs:ignore WordPress.WP.EnqueuedResources.NonEnqueuedScript
+		$last_body_tag_position = strrpos( $html, '</body>' );
+		// Append the script tag just before the last closing body tag especially in cases where there's an iframe.
+		$html = substr_replace( $html, $inline_script . $script_tag . '</body>', $last_body_tag_position, 7 );
 
-		// Append the script tag just before the closing body tag.
-		return str_replace( '</body>', $inline_script . $script_tag . '</body>', $html );
+		return $html;
 	}
 
 	/**
